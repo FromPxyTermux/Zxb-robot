@@ -1,0 +1,21 @@
+# Windows / Office 临时文件
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 编辑器
+.vscode/
+.idea/
